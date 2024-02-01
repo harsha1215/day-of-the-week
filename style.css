@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:100vh;
+    width: auto;
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+h1{
+    font-size: 40px;
+    color: rgb(97, 141, 136);
+}
+#weekday{
+    font-size: 70px;
+    color:rgb(107, 13, 194);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#quote{
+    font-size: 30px;
+    font-weight: bold;
+}
+
